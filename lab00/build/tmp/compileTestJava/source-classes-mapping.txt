@@ -1,0 +1,2 @@
+agh/ii/prinjava/lab00/lst00_01/CalcTest.java
+ agh.ii.prinjava.lab00.lst00_01.CalcTest

@@ -1,0 +1,4 @@
+agh/ii/prinjava/lab00/lst00_01/Main.java
+ agh.ii.prinjava.lab00.lst00_01.Main
+agh/ii/prinjava/lab00/lst00_01/Calc.java
+ agh.ii.prinjava.lab00.lst00_01.Calc
