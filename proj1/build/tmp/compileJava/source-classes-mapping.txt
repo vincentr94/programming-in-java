@@ -2,10 +2,10 @@ agh/ii/prinjava/proj1/MyQueue.java
  agh.ii.prinjava.proj1.MyQueue
 agh/ii/prinjava/proj1/impl/MyQueueDLLBImpl.java
  agh.ii.prinjava.proj1.impl.MyQueueDLLBImpl
+agh/ii/prinjava/proj1/impl/DLinkList.java
+ agh.ii.prinjava.proj1.impl.DLinkList
+ agh.ii.prinjava.proj1.impl.DLinkList$Node
 agh/ii/prinjava/proj1/MyStack.java
  agh.ii.prinjava.proj1.MyStack
 agh/ii/prinjava/proj1/impl/MyStackDLLBImpl.java
  agh.ii.prinjava.proj1.impl.MyStackDLLBImpl
-agh/ii/prinjava/proj1/impl/DLinkList.java
- agh.ii.prinjava.proj1.impl.DLinkList
- agh.ii.prinjava.proj1.impl.DLinkList$Node
